@@ -1,0 +1,8 @@
+[
+  "tests/test_game.py::test_dealerMove",
+  "tests/test_game.py::test_getBet",
+  "tests/test_game.py::test_getDeck",
+  "tests/test_game.py::test_getHandValue",
+  "tests/test_game.py::test_getMove",
+  "tests/test_main.py::test_main"
+]

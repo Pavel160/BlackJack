@@ -2,3 +2,4 @@
 exclude =
     __pycache__,
     venv/
+    tests/

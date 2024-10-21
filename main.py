@@ -1,5 +1,6 @@
-from game import Blackjack
+from blackjack.game import runGame
 
+# If the program is run (instead of imported), run the game:
 if __name__ == '__main__':
-    game = Blackjack()
-    game.main()
+    runGame()
+# print(blackjack.getDeck())
