@@ -1,6 +1,6 @@
 venv/
 *.pyc
 __pycache__/
-
-# Ignore VSCode settings
 .vscode/
+.env
+.flake8
